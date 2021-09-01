@@ -17,7 +17,7 @@ It takes weeks for our developers to fine tune the GPU kernel. Currently, we are
 
 - RTX3090       🆙 3-5 MH/s higher than other tools (3~5% improvement)
 
-  🔥**achieving nearly theoretical upper limit at 106Mh/s**
+  🔥**achieving nearly the optimal performance at 126Mh/s**
 - Other RTX30xx 🆙 1-3 MH/s higher than other tools
 
   ✅**close to upper limit**
